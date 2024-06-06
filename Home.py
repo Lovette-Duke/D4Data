@@ -12,7 +12,7 @@ sl.image("luke-chesser-JKUTrJ4vK00-unsplash.jpg", use_column_width=True)
 sl.write("""This project was inspired by my facination for the Data 
          and AI field.""")
 
-sl.image('feature.png')
+sl.image('feature.PNG')
 sl.write(""" This is the sidebar for the visualization app created
          with streamlit displaying a Histogram with a dropdown to select
          the feature to visualize and the number of bins for the plot""")
